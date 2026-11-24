@@ -1,0 +1,4 @@
+period,expense,amount_zar,basis,status,notes
+2026-11,Google Ads,1000.00,Monthly fixed estimate,Estimate,"Confirm invoice and VAT treatment"
+2026-11,Accounting fees,250.00,Monthly fixed estimate,Estimate,"Confirm invoice and VAT treatment"
+2026-11,Yoco transaction fees,1294.37,2.3% of R56277 gross paid collections,Estimate,"Replace with actual Yoco statement; confirm VAT treatment"
