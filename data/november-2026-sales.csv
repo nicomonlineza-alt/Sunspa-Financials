@@ -1,0 +1,5 @@
+order_id,order_date,customer_name,product,quantity,gross_paid_incl_vat_zar,product_sales_ex_vat_zar,unit_cost_ex_vat_zar,cost_of_goods_ex_vat_zar,payment_status,notes
+10119,2026-11-13,"Vicki Morris","MSPA Camaro Medium Round",1,18900.00,,11248.46,11248.46,Paid,"Wix order total; product mapping to Camaro medium round catalogue entry"
+10122,2026-11-20,"Ben Lyons","MSPA Starry Large Round incl LED Strip",1,13410.00,,9267.39,9267.39,Paid,"Wix order total; product mapping to Starry large round with LED"
+10120,2026-11-23,"Jessica Keyser","MSPA Starry Large Round incl LED Strip",1,13410.00,,9267.39,9267.39,Paid,"Wix order total; product mapping to Starry large round with LED"
+10121,2026-11-24,"Andries Bezuidenhout","MSPA Tekapo Large Square",1,10557.00,,8192.91,8192.91,Paid,"Wix order total; product mapping to Tekapo large square"
